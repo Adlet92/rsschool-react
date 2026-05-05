@@ -1,2 +1,2 @@
-# rsschool-react
-lets start the project
+
+# Please review the project on 7.05
